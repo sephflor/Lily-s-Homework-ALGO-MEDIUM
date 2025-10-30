@@ -1,1 +1,1 @@
-# Lily-s-Homework-ALGO-MEDIUM
+# Lily-s-Homework-ALGO-MEDIUM.The program calculates the minimum swaps needed to sort the array in ascending and descending order using a value-to-index mapping to perform swaps efficiently, then returns the smaller of the two counts.
